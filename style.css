@@ -1,0 +1,25 @@
+h1 {
+    color: #4c6998;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+p {
+    color: #1d3a3c;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+img {
+    border: 5px solid red;
+    border-radius: 1cm;
+    box-shadow: 10px 10px 10px #1d3a3c;
+}
+th {
+    font-size: large;
+    color: #153870;
+    font-weight: 10000;
+}
+body {
+    background-color: #ace6eb;
+}
